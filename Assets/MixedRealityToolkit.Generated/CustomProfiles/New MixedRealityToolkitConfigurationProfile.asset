@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7612acbc1a4a4ed0afa5f4ccbe42bee4, type: 3}
+  m_Name: New MixedRealityToolkitConfigurationProfile
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  experienceSettingsProfile: {fileID: 11400000, guid: 285a6b23f5d34ee418e56fdf5be3e742, type: 2}
+  targetExperienceScale: 3
+  enableCameraSystem: 1
+  cameraProfile: {fileID: 11400000, guid: b6bd6aae8455223479865725fd740e0e, type: 2}
+  cameraSystemType:
+    reference: Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSystem,
+      Microsoft.MixedReality.Toolkit.Services.CameraSystem
+  enableInputSystem: 1
+  inputSystemProfile: {fileID: 11400000, guid: d139d3d421a2993489894511edd8f4b3, type: 2}
+  inputSystemType:
+    reference: Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystem, Microsoft.MixedReality.Toolkit.Services.InputSystem
+  enableBoundarySystem: 1
+  boundarySystemType:
+    reference: Microsoft.MixedReality.Toolkit.Boundary.MixedRealityBoundarySystem,
+      Microsoft.MixedReality.Toolkit.Services.BoundarySystem
+  xrsdkBoundarySystemType:
+    reference: Microsoft.MixedReality.Toolkit.XRSDK.XRSDKBoundarySystem, Microsoft.MixedReality.Toolkit.Providers.XRSDK
+  boundaryVisualizationProfile: {fileID: 11400000, guid: 840650fcf1f2fec4bb00356cda8e59e5, type: 2}
+  enableTeleportSystem: 1
+  teleportSystemType:
+    reference: Microsoft.MixedReality.Toolkit.Teleport.MixedRealityTeleportSystem,
+      Microsoft.MixedReality.Toolkit.Services.TeleportSystem
+  enableSpatialAwarenessSystem: 1
+  spatialAwarenessSystemType:
+    reference: Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem,
+      Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem
+  spatialAwarenessSystemProfile: {fileID: 11400000, guid: e057405eb2f5c6649aa7a02985324aa5, type: 2}
+  diagnosticsSystemProfile: {fileID: 0}
+  enableDiagnosticsSystem: 0
+  diagnosticsSystemType:
+    reference: Microsoft.MixedReality.Toolkit.Diagnostics.MixedRealityDiagnosticsSystem,
+      Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem
+  sceneSystemProfile: {fileID: 11400000, guid: 069efa41032a317409790a6a08435311, type: 2}
+  enableSceneSystem: 0
+  sceneSystemType:
+    reference: Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystem,
+      Microsoft.MixedReality.Toolkit.Services.SceneSystem
+  registeredServiceProvidersProfile: {fileID: 11400000, guid: a2de7982b39be574291e5057ff8ecb64, type: 2}
+  useServiceInspectors: 0
+  renderDepthBuffer: 0
+  enableVerboseLogging: 0
