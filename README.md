@@ -49,3 +49,7 @@ We place the autistic children in a virtual environment, with a virtual person. 
 The increasing score would motivate the children to maintain eye contact with the person. 
 
 The EMDR Therapy session uses the eye detection and object gazing capabilities of the Hololens device, and would not work on a normal VR Headset.
+
+## Aural Therapy
+
+## Pathological Therapy
