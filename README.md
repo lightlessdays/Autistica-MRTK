@@ -25,8 +25,8 @@ Benefits of music therapy include improved heart rate, reduced anxiety, stimulat
 Music has been known to have healing properties since centuries. We have implemented a stardom scene, with a peaceful music playing in the background to stimulate a calm environment. It would help the autistic people get their heads clutter free of all thoughts and focus on the things and hand. This would increase their focus, and eventually increase their knowledge retaining power. This would efficiently increase the muscle memory of autistic people.
 
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/97734029/196027671-0911c24a-4072-4ed2-b32d-164ee7b4a1fd.png">
-<img src="https://user-images.githubusercontent.com/97734029/196027673-19b081bb-2905-44cf-b5a6-755068754d73.png">
+![image](https://user-images.githubusercontent.com/97734029/196027671-0911c24a-4072-4ed2-b32d-164ee7b4a1fd.png)
+![image](https://user-images.githubusercontent.com/97734029/196027673-19b081bb-2905-44cf-b5a6-755068754d73.png)
 
 ## Puzzle Therapy
 
