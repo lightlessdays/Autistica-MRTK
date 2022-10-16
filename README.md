@@ -66,3 +66,14 @@ This therapy would have multitudes of benefits for the autistic children.
 - The game scenario would provide them with a sense of accomplishment, if they get the word right.
 
 ## Pathological Therapy
+The pathological therapy aims to improve the pronunciations of autistic people.
+
+This therapy uses the voice recognition capabilities of Microsoft Hololens 2 device paired with OpenCV's voice detection capabilities. 
+
+This module is able to recognize various accents, and make out words. The user is presented with a word on the screen, which they have to speak with the correct pronunciation out loud.
+
+This would be very effective practice in improving the vocal coordination, loudness, pitch and pronunciation of autistic people. Autistic people generally suffer from three conditions, which this module can help improve. They are as follows-
+
+- Sound Substitution: Where one sounds is substituted for another sound in a systematic way (‘thuddenly‘ instead of ‘suddenly‘)
+- Syllable Deletion: Where a syllable is unknowingly omitted, typically in 3+ syllable words (‘technolgy” instead of ‘technology‘)
+- Unclear Speech: Where speech may begin clearly but trails off into a ‘mumble’ as the sentence progresses
