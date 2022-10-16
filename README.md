@@ -52,4 +52,17 @@ The EMDR Therapy session uses the eye detection and object gazing capabilities o
 
 ## Aural Therapy
 
+Aural rehabilitation Therapy for autistic people is a bit different from the regular Aural Therapy. The Aural Therapy for autistic people involves listening to words.
+
+The words would be pronounced once. Three options would be given to the person. Based on his understanding, listening skills and memory, the person has to choose the correct words from the option.
+
+This would vastly improve the auditory and memory skills of the person.
+
+This therapy would have multitudes of benefits for the autistic children.
+
+- It would improve their pronunciations.
+- It would improve their memory and knowledge retaining capacity.
+- It would improve their ability to catch and recognize new words and accents.
+- The game scenario would provide them with a sense of accomplishment, if they get the word right.
+
 ## Pathological Therapy
