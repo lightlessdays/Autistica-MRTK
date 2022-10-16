@@ -37,5 +37,6 @@ The puzzle therapy involves jumbled apples and bananas, which users have to sort
 The autistic person has a scene with 10 apples and 10 bananas, which are to be sorted. Once the person successfully sorts the apples and bananas, a congratulations screen is shown giving them a sense of achievement. 
 
 ### Screenshots
-![image](https://user-images.githubusercontent.com/97734029/196028153-e1d1669b-475a-4b8c-9941-c77a772ff185.png)
+![image](https://user-images.githubusercontent.com/97734029/196028191-342b22bb-75ff-440d-a0c4-40ff2aff9f3c.png)
+
 
