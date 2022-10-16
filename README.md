@@ -40,4 +40,4 @@ The autistic person has a scene with 10 apples and 10 bananas, which are to be s
 ![image](https://user-images.githubusercontent.com/97734029/196028191-342b22bb-75ff-440d-a0c4-40ff2aff9f3c.png)
 ![image](https://user-images.githubusercontent.com/97734029/196028288-1bebd1d0-5ecf-4a41-8bfe-f75375594bfd.png)
 
-
+## EMDR Therapy
