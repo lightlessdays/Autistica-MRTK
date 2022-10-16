@@ -1,4 +1,4 @@
-# Autistica: Immersive Therapy for Autistic Children
+# Autistica: Immersive Therapy for Autistic Children (PoC)
 
 ![autistic](https://user-images.githubusercontent.com/97734029/196027561-ba250161-15bc-4c28-b86c-b33e81986d17.png)
 
