@@ -2,7 +2,7 @@
 
 ![autistic](https://user-images.githubusercontent.com/97734029/196027561-ba250161-15bc-4c28-b86c-b33e81986d17.png)
 
-Autism is an inborn, lifelong developmental disability that is predominantly genetic. Signs of autism include developmental delays, out-of-the-box thinking, repetitive behavior, sensory sensitivities, sincerity, and specific passionate interests. Every autistic person gets a different mix of traits. Autism Spectrum Disorders are widespread and affect every 6 people in 10000 according to Autism Europe site1 . The disorder is chiefly characterized by impairments in social interaction and by repetitive and stereotyped behavior. (Source: Wikimedia Commons).
+Autism is an inborn, lifelong developmental disability that is predominantly genetic. Signs of autism include developmental delays, out-of-the-box thinking, repetitive behavior, sensory sensitivities, sincerity, and specific passionate interests. Every autistic person gets a different mix of traits. Autism Spectrum Disorders are widespread and affect every 6 people in 10000 according to Autism Europe. The disorder is chiefly characterized by impairments in social interaction and by repetitive and stereotyped behavior. (Source: Wikimedia Commons).
 
 Mark Lever, Chief Executive of the National Autistic Society says that "Almost everyone has heard of autism now but we continue to hear from autistic people and their families who miss out on an education, struggle to find work or become extremely isolated - often due to misunderstandings about autism and what it’s like to be autistic. Better understanding of autism could transform the lives of hundreds of thousands of autistic people.”
 
