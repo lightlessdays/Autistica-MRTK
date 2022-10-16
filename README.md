@@ -41,3 +41,11 @@ The autistic person has a scene with 10 apples and 10 bananas, which are to be s
 ![image](https://user-images.githubusercontent.com/97734029/196028288-1bebd1d0-5ecf-4a41-8bfe-f75375594bfd.png)
 
 ## EMDR Therapy
+
+Lack of eye contact" is a well-known symptom of autism. Studies have shown that autistic people feel a general sense of social anxiety or shyness. People with autism are less likely to look directly at another person's eyes, which suggests they're less engaged with others or less responsive to people in general. This leads to poor communication. To improve their eye contact skills, we have come up with a simple, but effective solution. 
+
+We place the autistic children in a virtual environment, with a virtual person. When the autistic person looks into the eyes of the virtual person, his/her/their score increases. The longer they look, the more their score is. The longer they look away, the less their score is. 
+
+The increasing score would motivate the children to maintain eye contact with the person. 
+
+The EMDR Therapy session uses the eye detection and object gazing capabilities of the Hololens device, and would not work on a normal VR Headset.
