@@ -1,6 +1,6 @@
-# Mezz AR: Measure distances in Augmented Reality.
+# Autistica: Immersive Therapy for Autistic Children
 
-![banner](https://github.com/lightlessdays/MezzAR/blob/main/banner.png)
+![autistic](https://user-images.githubusercontent.com/97734029/196027561-ba250161-15bc-4c28-b86c-b33e81986d17.png)
 
 MezzAR is an augmented reality application that uses the capabilities of smartphone's cameras to measure things in the real world. This app is accurate to within half an inch for short measurements, but off by several inches for long measurements- but all depends upon the hardware of your device. To run this app, make sure that your smartphone has ARCore enabled. If you do not have ARCore enabled/cannot enable it, please check if your device is compatible with it. This app requires camera permissions to measure things.
 
