@@ -27,3 +27,15 @@ Music has been known to have healing properties since centuries. We have impleme
 ### Screenshots
 <img src="https://user-images.githubusercontent.com/97734029/196027671-0911c24a-4072-4ed2-b32d-164ee7b4a1fd.png">
 <img src="https://user-images.githubusercontent.com/97734029/196027673-19b081bb-2905-44cf-b5a6-755068754d73.png">
+
+## Puzzle Therapy
+
+Research suggests that puzzles may help your brain, and even potentially prevent cognitive disorders as you age. (Refinery29)
+
+The puzzle therapy involves jumbled apples and bananas, which users have to sort in the red or the yellow cubes. Although this might seem like a simple kids' puzzle, for autistic people it is much more than that. Initially, the apples and bananas represent the jumble of confusion that autistic people have and the awareness arises that something needs to change. With awareness, autistic children can better their situations, improve their relationships and lead more satisfying lives.
+
+The autistic person has a scene with 10 apples and 10 bananas, which are to be sorted. Once the person successfully sorts the apples and bananas, a congratulations screen is shown giving them a sense of achievement. 
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/97734029/196028153-e1d1669b-475a-4b8c-9941-c77a772ff185.png)
+
