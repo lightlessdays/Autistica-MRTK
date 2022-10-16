@@ -13,3 +13,16 @@ We have clearly defined and outlined goals with are project, that include (but a
 - Helping autistic children improve their neural, auditory and visual responses and thinking capabilities 
 
 Our product uses immersive tech devices, like the Hololens 2 to guide autistic children through immersive and intensive therapy sessions to improve their muscle memory, vocal skills and eye coordination. The technology can be used to create virtual environments to help autistic people prepare for encounters or situations that could stimulate autistic responses in them. Certain fears and phobias that severely impact autistic children have also been tackled with alternate reality (mixed reality and virtual reality). These phobias can include, a fear of public transport, classrooms, balloons, and animals.  The use of technology allows exposure in the “real world” to train skills in a virtual environment, which is deemed safer. The responses of the children can be monitored by psychologists that can further investigate the case. This serves two purposes: (i) improves the sensory responses of autistic children and (ii) makes the job of psychologist of diagnosing children much easier. 
+
+## Music Therapy
+
+For autistic  people who can’t easily communicate, music therapy can be a way of communicating and interacting with their inner self.
+
+We scouted the internet and consulted thousands of psychologists until we came across a satisfactory result- listening to music has a positive effect on the brain and aids activities and performance. 
+
+Benefits of music therapy include improved heart rate, reduced anxiety, stimulation of the brain, and improved learning. 
+
+Music has been known to have healing properties since centuries. We have implemented a stardom scene, with a peaceful music playing in the background to stimulate a calm environment. It would help the autistic people get their heads clutter free of all thoughts and focus on the things and hand. This would increase their focus, and eventually increase their knowledge retaining power. This would efficiently increase the muscle memory of autistic people.
+
+![image](https://user-images.githubusercontent.com/97734029/196027671-0911c24a-4072-4ed2-b32d-164ee7b4a1fd.png)
+![image](https://user-images.githubusercontent.com/97734029/196027673-19b081bb-2905-44cf-b5a6-755068754d73.png)
